@@ -19,3 +19,5 @@ class Solution:
             cur.next = list2
         
         return dummy.next
+
+"""Solved using a dummy pointer which is always pointing to head node"""
