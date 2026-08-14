@@ -1,0 +1,1 @@
+a brute force solution would check every substeing (O(N^2) or O(N)^3)), but recognizing the sliding window pattern allows you to maintain a dynamic window that expands and contractsz solving this in O(N)
